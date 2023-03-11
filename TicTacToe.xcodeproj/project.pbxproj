@@ -11,6 +11,7 @@
 		F7412DCA29BD0E1A006F8EC4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7412DC929BD0E1A006F8EC4 /* ContentView.swift */; };
 		F7412DCC29BD0E1C006F8EC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7412DCB29BD0E1C006F8EC4 /* Assets.xcassets */; };
 		F7412DD029BD0E1C006F8EC4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7412DCF29BD0E1C006F8EC4 /* Preview Assets.xcassets */; };
+		F7412DD729BD0E43006F8EC4 /* TappableCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7412DD629BD0E43006F8EC4 /* TappableCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F7412DCB29BD0E1C006F8EC4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7412DCD29BD0E1C006F8EC4 /* TicTacToe.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TicTacToe.entitlements; sourceTree = "<group>"; };
 		F7412DCF29BD0E1C006F8EC4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F7412DD629BD0E43006F8EC4 /* TappableCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TappableCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				F7412DC729BD0E1A006F8EC4 /* TicTacToeApp.swift */,
 				F7412DC929BD0E1A006F8EC4 /* ContentView.swift */,
+				F7412DD629BD0E43006F8EC4 /* TappableCircle.swift */,
 				F7412DCB29BD0E1C006F8EC4 /* Assets.xcassets */,
 				F7412DCD29BD0E1C006F8EC4 /* TicTacToe.entitlements */,
 				F7412DCE29BD0E1C006F8EC4 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7412DD729BD0E43006F8EC4 /* TappableCircle.swift in Sources */,
 				F7412DCA29BD0E1A006F8EC4 /* ContentView.swift in Sources */,
 				F7412DC829BD0E1A006F8EC4 /* TicTacToeApp.swift in Sources */,
 			);
